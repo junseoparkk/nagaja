@@ -58,7 +58,7 @@ export const QUESTIONS: Question[] = [
       { label: '😀 투투투투... 흐음... 푸푸푸.. 추임새 넣기', score: 0 },
       { label: '🙂 일단 막막해서 한동안 가만히 있음', score: 1 },
       { label: '😐 Alt + Tab 컨트롤', score: 2 },
-      { label: '💀 유튜브 시청, 웹서핑, 카톡 등 다수의 생산적 활동', score: 3 },
+      { label: '💀 유튜브 시청, 웹서핑, 공고 확인 등 다수의 생산적 활동', score: 3 },
     ],
   },
   {
